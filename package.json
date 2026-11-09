@@ -1,5 +1,5 @@
 {
   "name": "mark-cook-portfolio", "version": "1.0.0", "private": true,
   "scripts": {"test": "node --test scripts/security.test.mjs", "deploy": "npm test && wrangler deploy"},
-  "devDependencies": {"wrangler": "4.156.1"}, "engines": {"node": ">=22"}
+  "devDependencies": {"wrangler": "4.158.0"}, "engines": {"node": ">=22"}
 }
